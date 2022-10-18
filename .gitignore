@@ -13,6 +13,7 @@
 *.o.ur-safe
 
 #### OS and tools generated files
+.idea/
 *~
 .#*
 cscope.out
